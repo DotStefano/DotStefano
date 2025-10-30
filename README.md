@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/DotStefano/DotStefano/blob/main/Simonetti.png" /></a>
 
 <!--
 **DotStefano/DotStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
