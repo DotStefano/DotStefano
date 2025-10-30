@@ -1,8 +1,9 @@
-<a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank"><img src="https://github.com/DotStefano/DotStefano/blob/main/A_cozy_pixelart_202510300255_rfprd.gif" /></a>
-
+<p align="center">
+    <a href="https://mahiiverse-portfolio.000webhostapp.com/" target="_blank">
+        <img src="https://github.com/DotStefano/DotStefano/blob/main/A_cozy_pixelart_202510300255_rfprd.gif" />
+    </a>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm Stefano</h1>
-
-<!--
 **DotStefano/DotStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
