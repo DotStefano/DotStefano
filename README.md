@@ -10,4 +10,16 @@
 | ------------------------------------------|
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
--->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3154vnenbukjaibmwafebrpg2wcy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3154vnenbukjaibmwafebrpg2wcy&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
